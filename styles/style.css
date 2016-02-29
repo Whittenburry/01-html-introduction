@@ -38,18 +38,18 @@ ul {
 }
 
 .top-nav__item--brand {
-  float: right;
+  float: left;
 }
 
 .top-nav {
   background: #272727;
-  color: antiquewhite;
+  color: red;
 }
 
 .content {
   padding: 0 1rem;
-  max-width: 1040px
-  margin: auto
+  max-width: 1040px;
+  margin: auto;
 }
 
 .student-info {
@@ -74,7 +74,7 @@ ul {
 }
 
 .student-info__social-list {
-  margin: auto
+  margin: auto;
   text-align: center;
 }
 
